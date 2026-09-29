@@ -7,6 +7,4 @@ Brief Description: A simple HTML website created to demonstrate basic Git versio
 Reflection: The difference between git add and git commit is that git add stages changes so they are ready to be saved, while git commit records those staged changes as a version in the Git repository.
 ## Remote Update Test
 
-Testing git fetch command.
-Testing git pull
-Adding a line on GitHub to test git pull.
+## Evidence 2 Test Update
