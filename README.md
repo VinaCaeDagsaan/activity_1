@@ -9,3 +9,4 @@ Reflection: The difference between git add and git commit is that git add stages
 
 Testing git fetch command.
 Testing git pull
+Adding a line on GitHub to test git pull.
