@@ -8,3 +8,4 @@ Reflection: The difference between git add and git commit is that git add stages
 ## Remote Update Test
 
 Testing git fetch command.
+Testing git pull
